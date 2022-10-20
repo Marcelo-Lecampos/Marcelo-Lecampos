@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelo-lecampos&show_icons=true&locale=en" alt="marcelo-lecampos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-lecampos&" alt="marcelo-lecampos" /></p>
+
+![snake gif](https://github.com/Marcelo-Lecampos/Marcelo-Lecampos/blob/output/github-contribution-grid-snake.svg)
