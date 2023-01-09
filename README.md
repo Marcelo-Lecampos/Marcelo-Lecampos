@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-lecampos&" alt="marcelo-lecampos" /></p>
 
-![snake gif](https://github.com/Marcelo-Lecampos/Marcelo-Lecampos/blob/output/github-contribution-grid-snake.svg)
+
