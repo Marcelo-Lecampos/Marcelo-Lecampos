@@ -26,7 +26,6 @@
       <td><b> Projeto</b></td>
       <td><b> Descrição</b></td>
       <td><b> Technologias</b></td>
-       <td><b> Outros</b></td>
     </tr>
   </thead>
   <tbody>
@@ -35,13 +34,11 @@
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Queque</b></a></td>
       <td>Queque</td>
       <td>Queque</td>
-      <td>Queque</td>
   </td>
     </tr>
        <tr>
      <td> Queque</td>
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Queque</b></a></td>
-      <td>Queque</td>
       <td>Queque</td>
       <td>Queque</td>
   </td>
