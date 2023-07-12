@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelo-lecampos&label=Profile%20views&color=0e75b6&style=flat" alt="marcelo-lecampos" /> </p>
 
 <div >
-  <img src=".github/workflows/marcelo-logo.png" width="400" alt="card-marcelo"/>
+  <img src=".github/workflows/marcelo-logo-two.png" width="400" alt="card-marcelo"/>
 </div>
 
 <h2>⚡️ A Few Quick Facts</h2>
