@@ -31,14 +31,14 @@
   <tbody>
     <tr>
       <td> Queque</td>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Queque</b></a></td>
+      <td><a target="_blank" href="https://www.google.com/"><b>Queque</b></a></td>
       <td>Queque</td>
       <td>Queque</td>
   </td>
     </tr>
        <tr>
      <td> Queque</td>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Queque</b></a></td>
+      <td><a target="_blank" href="https://www.google.com/"><b>Queque</b></a></td>
       <td>Queque</td>
       <td>Queque</td>
   </td>
