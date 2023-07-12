@@ -5,11 +5,6 @@
   <img src=".github/workflows/marcelo-logo.png" width="400" alt="card-marcelo"/>
 </div>
 
-<ul>
-<li>Atualmente estou desenvolvendo minhas habilidades como programador fullstack, acabei de terminar o curso devinhouse do senai e estou iniciando alguns outros como RocketSeat, Fullcycle, desenvolvedor.io </li>
-<li>Tenho grande interesse em aprender váris techs diferentes, não me apego a langs. Pode me chamar de programador asterisco 😂.</li>
-</ul>ul>
-
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>Meu Primeiro Contato com Programção foi no RPG Maker e no Mugen na adolescência, adorava replicar técnicas que aprendia nos foruns;</li>
@@ -17,8 +12,13 @@
 <li>Sou formado em administração e trabalhei boa parte da minha vida com ela, e claro que brinquei muito com excel;</li>
 <li>Curto bastante jogos retro, mobas, rts;</li>
 <li>Tb gosto bastante de história militar</li>
+<li> Acabei de terminar o curso devinhouse do senai e estou iniciando alguns outros como RocketSeat, Fullcycle, desenvolvedor.io </li>
+<li> Tenho grande interesse em aprender várias techs diferentes, não me apego a tecnologias. Pode me chamar de programador asterisco 😂.</li>
 <li>Me considero uma pessoa bem comunicativa, bem amigável, sou bem criativo e caprichoso!</li> 
 </ul>
+
+<h2>⚡️ A Few Quick Facts</h2>
+
 
 <h2>✒️ Recent Posts</h2>
 <ul>
