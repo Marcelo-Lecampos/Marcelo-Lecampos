@@ -51,7 +51,7 @@
 
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="https://www.google.com/">Queque</a></li>
+<li><a target="_blank" href="https://www.google.com/">Em Breve ⛏</a></li>
 </ul>
 
 <h2>✨ Techs</h2>
