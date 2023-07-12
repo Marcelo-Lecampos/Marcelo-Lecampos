@@ -1,5 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you 👋!!!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelo-lecampos&label=Profile%20views&color=0e75b6&style=flat" alt="marcelo-lecampos" /> </p>
+
+<div>
+  <img src=".github/workflows/marcelo-logo.png" width="400" alt="card-marcelo" />
+</div>
+
 <h4>Atualmente estou desenvolvendo minhas habilidades como programador fullstack, acabei de terminar o curso devinhouse do senai e estou iniciando alguns outros como RocketSeat, Fullcycle, desenvolvedor.io </h4>
 <p> Tenho grande interesse em aprender váris techs diferentes, não me apego a langs. Pode me chamar de programador asterisco 😂.</p>
 
@@ -9,6 +14,7 @@
 <li>Cheguei a estudar python no codeacademy em 2015, mas só tomei a decisão de embarcar de fato em 2021;</li>
 <li>Sou formado em administração e trabalhei boa parte da minha vida com ela, e claro que brinquei muito com excel;</li>
 <li>Curto bastante jogos retro, mobas, rts;</li>
+<li>Tb gosto bastante de história militar</li>
 <li>Me considero uma pessoa bem comunicativa, bem amigável, sou bem criativo e caprichoso!</li> 
 </ul>
 
