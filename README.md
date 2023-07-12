@@ -1,9 +1,38 @@
-<h1 align="center">Olá!🙋‍♂️ Seja bem vindo(a)ao meu Git! Me chamo Marcelo! 🤠</h1>
-<h3 align="center">Sou um apreciador de café ☕, eterno estudante 📖 e programador Fullstack 🎵</h3>
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelo-lecampos&label=Profile%20views&color=0e75b6&style=flat" alt="marcelo-lecampos" /> </p>
+<h4>Atualmente estou desenvolvendo minhas habilidades como programador fullstack, acabei de terminar o curso devinhouse do senai e estou iniciando alguns outros como RocketSeat, Fullcycle, desenvolvedor.io </h4>
+<p> Tenho grande interesse em aprender váris techs diferentes, não me apego a langs. Pode me chamar de programador asterisco 😂.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelo-lecampos" alt="marcelo-lecampos" /></a> </p>
+
+
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b> Projetos</b></td>
+      <td><b> Data do projeto</b></td>
+      <td><b> Descrição</b></td>
+      <td><b> Technologias</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Queque</b></a></td>
+      <td> Queque</td>
+      <td>Queque</td>
+      <td>Queque</td>
+  </td>
+    </tr>
+       <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Queque</b></a></td>
+      <td> Queque</td>
+      <td>Queque</td>
+      <td>Queque</td>
+  </td>
+    </tr>
+
+     
+   </table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
