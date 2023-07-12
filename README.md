@@ -17,8 +17,37 @@
 <li>Me considero uma pessoa bem comunicativa, bem amigável, sou bem criativo e caprichoso!</li> 
 </ul>
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>📌 Projects</h2>
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b> Data</b></td>
+      <td><b> Projeto</b></td>
+      <td><b> Descrição</b></td>
+      <td><b> Technologias</b></td>
+       <td><b> Outros</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Queque</td>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Queque</b></a></td>
+      <td>Queque</td>
+      <td>Queque</td>
+      <td>Queque</td>
+  </td>
+    </tr>
+       <tr>
+     <td> Queque</td>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Queque</b></a></td>
+      <td>Queque</td>
+      <td>Queque</td>
+      <td>Queque</td>
+  </td>
+    </tr>
+    
+   </table>
 
 <h2>✒️ Recent Posts</h2>
 <ul>
@@ -26,34 +55,7 @@
 </ul>
 
 
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b> Projetos</b></td>
-      <td><b> Data do projeto</b></td>
-      <td><b> Descrição</b></td>
-      <td><b> Technologias</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Queque</b></a></td>
-      <td> Queque</td>
-      <td>Queque</td>
-      <td>Queque</td>
-  </td>
-    </tr>
-       <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Queque</b></a></td>
-      <td> Queque</td>
-      <td>Queque</td>
-      <td>Queque</td>
-  </td>
-    </tr>
 
-     
-   </table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
