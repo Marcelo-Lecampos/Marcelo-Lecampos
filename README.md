@@ -38,10 +38,21 @@
   </td>
     </tr>
        <tr>
-     <td> Em Breve</td>
-      <td><a target="_blank" href="https://www.google.com/"><b>Em Breve</b></a></td>
-      <td>Em Breve</td>
-      <td>Em Breve</td>
+     <td> Dezembro 2022</td>
+      <td><a target="_blank" href="https://github.com/Marcelo-Lecampos/ConnectLab2.0"><b>ConnectLab2.0</b></a></td>
+      <td>Primeiro Projeto frontend utilizando react, o projeto connecta com um backend que nos foi fornecido. Meu projeto ficou super bonito e pode ser visto aqui => 
+        <a target="_blank" href="https://github.com/Marcelo-Lecampos/ConnectLab2.0](https://youtu.be/fGDxn27uRqU">Vídeo</a>
+   </td>
+      <td>
+React, Styled-components, Styled-icons, Axios, Hookform, Yup, Victory, React-helmet, Nuka-carousel, React-loading-skeleton, React-spinners, Styled-react-modal, Awesome-snackbar </td>
+  </td>
+    </tr>
+        </tr>
+       <tr>
+     <td></td>
+      <td><a target="_blank" href=""><b> </b></a></td>
+      <td> </td>
+      <td> </td>
   </td>
     </tr>
     
