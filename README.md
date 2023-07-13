@@ -30,7 +30,7 @@
   </thead>
   <tbody>
     <tr>
-      <td> Novembro de 2022</td>
+      <td> Novembro 2022</td>
       <td><a target="_blank" href="https://github.com/Marcelo-Lecampos/lab-car-api"><b> lab-car-api
 </b></a></td>
       <td>Primeiro Projeto em node, foi um projeto avaliativo desenvolvido no devinHouse</td>
@@ -47,14 +47,24 @@
 React, Styled-components, Styled-icons, Axios, Hookform, Yup, Victory, React-helmet, Nuka-carousel, React-loading-skeleton, React-spinners, Styled-react-modal, Awesome-snackbar </td>
   </td>
     </tr>
-        </tr>
-       <tr>
-     <td></td>
-      <td><a target="_blank" href=""><b> </b></a></td>
-      <td> </td>
-      <td> </td>
-  </td>
-    </tr>
+<tr>
+    <td>Fevereiro 2023</td>
+    <td><a target="_blank" href="https://github.com/Marcelo-Lecampos/connect_Lab-api"><b>ConnectLab-API </b></a></td>
+    <td>Primeiro Projeto em Nest, fomos desafiados a criar um API para um gerenciador de IOTS. </td>
+    <td>
+    Node, Nest.js, Typeorm, Seed, JWT, Bcrypt, Class-validator, Class-transformer
+ </td>
+    </td>
+</tr>
+<tr>
+    <td></td>
+    <td><a target="_blank" href=""><b> </b></a></td>
+    <td> </td>
+    <td> </td>
+    </td>
+</tr>
+
+    
     
    </table>
 
