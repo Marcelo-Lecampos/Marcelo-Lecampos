@@ -57,6 +57,14 @@ React, Styled-components, Styled-icons, Axios, Hookform, Yup, Victory, React-hel
     </td>
 </tr>
 <tr>
+    <td>Março 2023</td>
+    <td><a target="_blank" href="https://github.com/Marcelo-Lecampos/api-developers-main"><b> api-developers-main
+ </b></a></td>
+    <td>Primeiro projeto avaliativo com testes e documentação via swagger. Foi desenvolvido no curso devinhouse  </td>
+    <td> Node, Nest.js, Typeorm, Jest, Swagger </td>
+    </td>
+</tr>
+<tr>
     <td></td>
     <td><a target="_blank" href=""><b> </b></a></td>
     <td> </td>
