@@ -65,6 +65,15 @@ React, Styled-components, Styled-icons, Axios, Hookform, Yup, Victory, React-hel
     </td>
 </tr>
 <tr>
+    <td>Julho 2023</td>
+    <td><a target="_blank" href="https://github.com/Marcelo-Lecampos/Connect-Lab-API-Plus"><b>Connect-Lab-API-Plus
+ </b></a></td>
+    <td>Projeto avaliativo fullstack enorme para finalização do curso devinhouse, sendo esta a parte backend. Foi feito utilizando gitflow e padrõs de commite(que infelizmente não consegui salvar do repositório original do SENAI). Foi desenvolvido um gerenciador de dashboards IOT para agricultura.  </td>
+    <td>
+    Node, Nest.js, Typeorm, Swagger, Postgres
+    </td>
+</tr>
+<tr>
     <td></td>
     <td><a target="_blank" href=""><b> </b></a></td>
     <td> </td>
