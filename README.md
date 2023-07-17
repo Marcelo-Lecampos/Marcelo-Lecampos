@@ -64,6 +64,15 @@ React, Styled-components, Styled-icons, Axios, Hookform, Yup, Victory, React-hel
     <td> Node, Nest.js, Typeorm, Jest, Swagger </td>
     </td>
 </tr>
+  <tr>
+    <td>Junho 2023</td>
+    <td><a target="_blank" href="https://github.com/Marcelo-Lecampos/toDo"><b>toDO </b></a></td>
+    <td>Simples toDo feito em react, faz parte da formação ignite da RocketSeat </td>
+    <td>
+    TypeScript, React, Vite
+ </td>
+    </td>
+</tr>
 <tr>
     <td>Julho 2023</td>
     <td><a target="_blank" href="https://github.com/Marcelo-Lecampos/Connect-Lab-API-Plus"><b>Connect-Lab-API-Plus
