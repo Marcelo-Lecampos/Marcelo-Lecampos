@@ -82,6 +82,13 @@ React, Styled-components, Styled-icons, Axios, Hookform, Yup, Victory, React-hel
     Node, Nest.js, Typeorm, Swagger, Postgres
     </td>
 </tr>
+  <tr>
+    <td>Setembro 2023</td>
+    <td><a target="_blank" href="https://github.com/Marcelo-Lecampos/Daily_Diet_API"><b>Daily_Diet_API </b></a></td>
+    <td>API para Gerenciar Dietas </td>
+    <td>Node.js, Fastify, npm, Typescript, Knex, Sqlite3, Zod, Vitest, SuperTest </td>
+    </td>
+</tr>
 <tr>
     <td></td>
     <td><a target="_blank" href=""><b> </b></a></td>
